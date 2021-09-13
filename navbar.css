@@ -1,0 +1,15 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    border: solid 1px black;
+
+}
+#options{
+    display: flex;
+    flex-direction: row;
+   
+}
+#options >h3{
+margin: 0px 20px 0px 20px;
+}
